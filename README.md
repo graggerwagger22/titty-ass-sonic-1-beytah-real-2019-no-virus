@@ -1,2 +1,2 @@
-# titty-ass-sonic-1-beytah-real-2019-no-virus
-titty ass soinci beta real 2019 download hack fr fr 
+# Sonic 1 Prototype Disassembly
+This fork of the Mega Drive Developer's Collective disassembly of the Sonic 1 Prototype is a heavily modified version and targets the ASM68K assembler.
